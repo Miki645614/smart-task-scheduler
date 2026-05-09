@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "description": "Running (Weather: 18\u00b0C, Partly Cloudy)",
+    "type": "Outdoor Activity",
+    "datetime": "2026-05-09T20:00:00",
+    "location": "New York",
+    "status": "Scheduled",
+    "weather_info": "18\u00b0C, Partly Cloudy"
+  },
+  {
+    "id": 2,
+    "description": "Meeting with John",
+    "type": "Meeting",
+    "datetime": "2026-05-09T14:00:00",
+    "location": "New York",
+    "status": "Completed",
+    "weather_info": null
+  },
+  {
+    "id": 3,
+    "description": "Team meeting",
+    "type": "General",
+    "datetime": "2026-05-09T15:00:00",
+    "location": "New York",
+    "status": "Completed",
+    "weather_info": null
+  }
+]
